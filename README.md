@@ -1,6 +1,7 @@
 # W&B + PyImageSearch MLOps Course
 
 This repo contains the code for the course: https://pyimagesearch.mykajabi.com/offers/LQSsX59C
+
 Link to the course: https://pyimagesearch.mykajabi.com/products/mlops-with-weights-biases
 
 
