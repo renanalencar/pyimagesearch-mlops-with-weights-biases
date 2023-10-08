@@ -1,0 +1,19 @@
+# Weights and Biases
+.wandb/
+wandb/
+
+artifacts/
+lemon-dataset/
+models/
+data_split.csv
+
+__pycache__/
+.pyc
+.env
+venv/
+*.log
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/

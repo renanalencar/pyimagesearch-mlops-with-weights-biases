@@ -1,0 +1,11 @@
+black==23.9.1
+isort==5.12.0
+scikit-image==0.22.0
+wandb>=0.15.12
+pycocotools==2.0.7
+timm==0.9.7
+fastprogress==1.0.3
+torcheval==0.0.7
+torch>=2.1.0
+pandas>=2.1.1
+scikit-learn>=1.3.1
